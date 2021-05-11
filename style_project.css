@@ -1,0 +1,22 @@
+body {
+  min-height: 1000px;
+}
+
+card {
+  image-resolution: "100px";
+}
+
+.class {
+  text-align: justify;
+  text-size-adjust: 50%;
+  margin: 0;
+  padding-top: 2rem;
+  height: 50%;
+  border: 2px solid black;
+  image-resolution: 50px;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+}

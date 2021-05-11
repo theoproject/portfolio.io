@@ -1,0 +1,19 @@
+body {
+  min-height: 1000px;
+  src: "C:\inetpub\wwwroot\Web\Menu\asset\dan-aragon-akjkrzAURFs-unsplash.jpg";
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+  text-align: center;
+}
+
+.card {
+  align-items: center;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+}

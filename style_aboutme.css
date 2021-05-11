@@ -1,0 +1,36 @@
+body {
+  min-height: 1000px;
+}
+
+.jumbotron {
+  padding-top: 5px;
+  background-color: #e2edff;
+  text-align: center;
+}
+
+#project {
+  background-color: #e2edff;
+  image-resolution: 200px;
+}
+
+section {
+  padding-top: 0px;
+}
+
+img {
+  position: relative;
+  z-index: 1;
+  top: 0px;
+}
+
+h1 {
+  position: absolute;
+  top: 75px;
+  text-align: center;
+  z-index: 2;
+  color: #fff;
+}
+
+header {
+  margin: 100px;
+}
